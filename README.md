@@ -1,5 +1,5 @@
 # discord-banner-count
-# this code which I wrote let u set the discord server mic count on banner
+# this code will let u set the discord server mic count on banner
 
  make a folder name it (images)
 
