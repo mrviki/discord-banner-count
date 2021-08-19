@@ -12,4 +12,5 @@
  Warning : ur sever must be level 2 in discord to put banner 
 
 if u have any Question dm me in discord : ੴ viki ριЖιs#6080
+
 written by : #SNVMK
